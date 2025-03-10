@@ -1,0 +1,7 @@
+{
+  "commands": [
+    { "name": "help", "description": "利用可能なコマンド一覧を表示" },
+    { "name": "date", "description": "現在の日付と時刻を表示" },
+    { "name": "weather", "description": "現在の天気を取得" }
+  ]
+}
